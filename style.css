@@ -84,5 +84,15 @@ header {
     color: var(--orange);
 }
 
+.ableton-image {
+    height: 400px;
+    width: 800px;
+    margin: 0 auto;
+    background-image: url("../Ableton-mock/css-images/ableton-image.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* SECOND CONTAINER */
 
