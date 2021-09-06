@@ -68,3 +68,21 @@ header {
 /* MAIN */
 
 /* FIRST CONTAINER */
+
+.first-container-list {
+    padding: 0;
+}
+
+.first-container-list a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    margin: 10px;
+}
+
+#about {
+    color: var(--orange);
+}
+
+/* SECOND CONTAINER */
+
