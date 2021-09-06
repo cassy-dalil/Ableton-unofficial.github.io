@@ -20,18 +20,20 @@ body {
 header {
     display: flex;
     justify-content: space-between;
+    border-bottom: 1px solid gray;
 }
 
 .nav-left-section {
     display: flex;
     justify-content: flex-start;
+    align-items: center;
 }
 
 .nav-bar-left {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    margin: 0;
+    margin: 10px;
     padding: 0;
 }
 
@@ -43,6 +45,7 @@ header {
 .nav-bar-left-list a {
     text-decoration: none;
     color: black;
+    margin: 5px;
 }
 
 .nav-bar-right {
@@ -54,4 +57,14 @@ header {
 .nav-bar-right-list a {
     text-decoration: none;
     color: black;
+    margin: 5px;
 }
+
+#try-live {
+    color: var(--blue);
+}
+
+
+/* MAIN */
+
+/* FIRST CONTAINER */
