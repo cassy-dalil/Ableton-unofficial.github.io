@@ -207,3 +207,58 @@ header {
 
 /* FOURTH CONTAINER */
 
+.fourth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green-images-container {
+    height: 600px;
+    width: 700px;
+    background-color: var(--pale-green);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.green-small-images-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.man-writing-image {
+    height: 225px;
+    width: 300px;
+    background-image: url('../Ableton-mock/css-images/man-writing.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.ableton-brickwall {
+    height: 225px;
+    width: 300px;
+    background-image: url('../Ableton-mock/css-images/ableton-brick-wall.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.man-woman-studio-image {
+    height: 400px;
+    width: 300px;
+    background-image: url('../Ableton-mock/css-images/man-woman-studio.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 150px;
+}
+
+/* FIFTH CONTAINER */
