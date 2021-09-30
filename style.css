@@ -160,3 +160,50 @@ header {
         left: -40px;
     }
 }
+
+/* THIRD CONTAINER */
+
+.third-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.third-container-text1 {
+    height: 150px;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 0;
+    padding: 2px;
+}
+
+.third-container-text2 {
+    height: 250px;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 0;
+    padding: 2px;
+}
+
+.third-section-h3 {
+    font-size: 18px;
+}
+
+.third-section-paragraph {
+    font-size: 14px;
+}
+
+.youtube-video {
+    margin-top: 10px;
+    width: 50vw;
+}
+
+@media (min-width: 1000px) {
+    .youtube-video {
+        width: 30vw;
+    }
+}
+
+/* FOURTH CONTAINER */
+
