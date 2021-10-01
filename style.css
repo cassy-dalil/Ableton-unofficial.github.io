@@ -285,3 +285,79 @@ header {
 .fifth-container-text p {
     font-size: 14px;
 }
+
+.monitor-image {
+    height: 500px;
+    width: 800px;
+    background-image: url('../Ableton-mock/css-images/monitor-image.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* SIXTH CONTAINER */
+
+.sixth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sixth-container-text {
+    height: 250px;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 0;
+    padding: 2px;
+}
+
+.sixth-container-text h3 {
+    font-size: 18px;
+}
+
+.sixth-container-text p {
+    font-size: 14px;
+}
+
+.purple-images-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--purple);
+    height: 600px;
+    width: 700px;
+    position: relative;
+}
+
+.looking-at-computer-image {
+    height: 225px;
+    width: 300px;
+    background-image: url('../Ableton-mock/css-images/looking-at-computer.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: -50px;
+}
+
+.classroom-image {
+    height: 450px;
+    width: 400px;
+    background-image: url('../Ableton-mock/css-images/classroom-image.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    right: -50px;
+}
+
+@media (min-width: 1000px) {
+    .looking-at-computer-image {
+        left: -100px;
+    }
+
+    .classroom-image {
+        right: -100px;
+    }
+}
