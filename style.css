@@ -262,3 +262,26 @@ header {
 }
 
 /* FIFTH CONTAINER */
+
+.fifth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.fifth-container-text {
+    height: 250px;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 0;
+    padding: 2px;
+}
+
+.fifth-container-texth3 {
+    font-size: 18px;
+}
+
+.fifth-container-text p {
+    font-size: 14px;
+}
