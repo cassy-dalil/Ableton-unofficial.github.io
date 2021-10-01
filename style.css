@@ -361,3 +361,39 @@ header {
         right: -100px;
     }
 }
+
+/* SEVENTH CONTAINER */
+
+.seventh-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ableton-class-image {
+    height: 500px;
+    width: 500px;
+    background-image: url('../Ableton-mock/css-images/ableton-class-image.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.seventh-container-text-box {
+    height: 500px;
+    width: 500px;
+    background-color: var(--pale-blue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.seventh-container-text-box h2 {
+    font-size: 18px;
+    width: 275px;
+}
+
+.seventh-container-text-box a {
+    text-decoration: none;
+}
