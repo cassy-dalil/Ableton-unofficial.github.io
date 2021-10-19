@@ -88,7 +88,7 @@ header {
     height: 400px;
     width: 800px;
     margin: 0 auto;
-    background-image: url("../Ableton-mock/css-images/ableton-image.JPG");
+    background-image: url("./ableton-image.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -134,7 +134,7 @@ header {
 .keypads-image {
     height: 400px;
     width: 350px;
-    background-image: url('../Ableton-mock/css-images/keypads-image.JPG');
+    background-image: url('./keypads-image.JPG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -146,7 +146,7 @@ header {
 .woman-walking-blurry-image {
     height: 300px;
     width: 350px;
-    background-image: url('../Ableton-mock/css-images/woman-walking-blurry.JPG');
+    background-image: url('./woman-walking-blurry.JPG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -234,7 +234,7 @@ header {
 .man-writing-image {
     height: 225px;
     width: 300px;
-    background-image: url('../Ableton-mock/css-images/man-writing.JPG');
+    background-image: url('./man-writing.JPG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -244,7 +244,7 @@ header {
 .ableton-brickwall {
     height: 225px;
     width: 300px;
-    background-image: url('../Ableton-mock/css-images/ableton-brick-wall.JPG');
+    background-image: url('./ableton-brick-wall.JPG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -253,7 +253,7 @@ header {
 .man-woman-studio-image {
     height: 400px;
     width: 300px;
-    background-image: url('../Ableton-mock/css-images/man-woman-studio.JPG');
+    background-image: url('./man-woman-studio.JPG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -289,7 +289,7 @@ header {
 .monitor-image {
     height: 500px;
     width: 800px;
-    background-image: url('../Ableton-mock/css-images/monitor-image.JPG');
+    background-image: url('./monitor-image.JPG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -333,7 +333,7 @@ header {
 .looking-at-computer-image {
     height: 225px;
     width: 300px;
-    background-image: url('../Ableton-mock/css-images/looking-at-computer.JPG');
+    background-image: url('./looking-at-computer.JPG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -344,7 +344,7 @@ header {
 .classroom-image {
     height: 450px;
     width: 400px;
-    background-image: url('../Ableton-mock/css-images/classroom-image.JPG');
+    background-image: url('./classroom-image.JPG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -373,7 +373,7 @@ header {
 .ableton-class-image {
     height: 500px;
     width: 500px;
-    background-image: url('../Ableton-mock/css-images/ableton-class-image.JPG');
+    background-image: url('./ableton-class-image.JPG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
