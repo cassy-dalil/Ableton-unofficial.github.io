@@ -466,3 +466,30 @@ footer {
     display: flex;
     flex-direction: column;
 }
+
+/* footer nav */
+
+.footer-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-nav-list {
+    padding: 0;
+}
+
+.footer-nav-list-item {
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+}
+
+.footer-nav-blurb {
+    font-size: 10px;
+}
+
+.main-nav__logo__image {
+    height: 10px;
+    width: 25px;
+}
